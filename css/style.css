@@ -1,0 +1,24 @@
+/* p{
+    color:chartreuse;
+} */
+
+h1{
+    color: cornflowerblue;
+}
+.my-para{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(196, 226, 0);
+}
+#sub{
+    font-size: 45px;
+    font-weight: 300;
+    color: blue;
+}
+p,h1,h2{
+    color: chartreuse;
+
+}
+button.red{
+    background-color: red;
+}
